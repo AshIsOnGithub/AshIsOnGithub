@@ -4,5 +4,5 @@
 - 👯 I’m looking to collaborate on future projects
 
 🔗 Portfolio: []
-📧 Email: [ashvinthirukumar25@gmail.com]
+📧 Email: []
 💼 LinkedIn: [My LinkedIn Profile]
