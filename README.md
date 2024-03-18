@@ -2,8 +2,7 @@
    Here is my profile, where I try to learn, create, and work with other enthusiasts.
 - 🌱 I’m currently learning how i can showcase my interest in cyber security
 - 👯 I’m looking to collaborate on future projects
-Lets connect
+
 🔗 Portfolio: [https://ashisongithub.github.io/Portfolio-test/]
 📧 Email: [ashvinthirukumar25@gmail.com]
-💼 LinkedIn: [Your LinkedIn Profile]
--->
+💼 LinkedIn: [My LinkedIn Profile]
