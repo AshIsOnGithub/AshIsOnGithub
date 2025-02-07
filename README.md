@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning how i can showcase my interest in cyber security
 - 👯 I’m looking to collaborate on future projects
 
-🔗 Portfolio: []
+🔗 Portfolio: [https://coding-portfolio-q.vercel.app/#Projects]
 📧 Email: []
-💼 LinkedIn: [My LinkedIn Profile]
+💼 LinkedIn: [linkedin.com/in/ashvin-thirukumar]
